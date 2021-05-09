@@ -8,3 +8,4 @@
 
 ## Linguagem que eu uso para os meus projetos
 
+![JK COMUNIDADE](https://img.shields.io/discord/786677580970328094?label=usuarios%20online)
