@@ -8,8 +8,8 @@
 
 ## Linguagem que eu uso para os meus projetos
 
-- Node.JS
-- Java
+![NodeJS](https://emoji.gg/assets/emoji/4408_nodejs.png)
+[]
 
 ## Info
 
