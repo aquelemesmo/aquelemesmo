@@ -8,4 +8,4 @@
 
 ## Linguagem que eu uso para os meus projetos
 
-![Node.JS](https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png)
+![Node.JS](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1280px-Node.js_logo_2015.svg.png)
