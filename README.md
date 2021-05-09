@@ -2,7 +2,9 @@
 
 ### Bom dia, boa tarde e boa noite!
 
-Meus projetos sao dos basicos e as vezes extremos.
+- Eu sou programador infantil.
+- Sou criador do bot **LipeBot**
+- Dono da JK COMUNIDADE
 
 # Linguagem que eu uso para os meus projetos!
 
