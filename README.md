@@ -13,6 +13,7 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
 ## Linguagem que eu uso para os meus projetos
 
 ![NodeJS](https://emoji.gg/assets/emoji/4408_nodejs.png)
+![Java](https://emoji.gg/assets/emoji/java.png)
 
 ## Info
 
