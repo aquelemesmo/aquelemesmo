@@ -8,6 +8,7 @@
 
 ## Linguagem que eu uso para os meus projetos
 
-## JK STATUS
+## Info
 
 ![JKONLINE](https://img.shields.io/discord/786677580970328094?label=usuarios%20online)
+![DiscordNPMVersion](https://img.shields.io/npm/v/discord.js)
