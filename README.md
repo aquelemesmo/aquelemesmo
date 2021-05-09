@@ -8,7 +8,7 @@
 
 ## Linguagem que eu uso para os meus projetos
 
-![NodeJS](https://emoji.gg/assets/emoji/4408_nodejs.png){:height="50%" width="50%"}
+![NodeJS](https://emoji.gg/assets/emoji/4408_nodejs.png | width=100)
 
 ## Info
 
