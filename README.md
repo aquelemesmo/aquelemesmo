@@ -10,5 +10,5 @@
 
 ## Info
 
-![JKONLINE](https://img.shields.io/discord/786677580970328094?label=usuarios%20online)
-![DiscordNPMVersion](https://img.shields.io/npm/v/discord.js)
+![JKONLINE](https://img.shields.io/discord/786677580970328094?label=JK)
+![DiscordNPMVersion](https://img.shields.io/npm/v/discord.js?label=Discord.js)
