@@ -6,14 +6,14 @@ Vamos la né, eu comecei a programar Node.JS ou JavaScript em 2018 e quando come
 
 E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemesmo?tab=repositories)
 
-- Eu sou programador infantil.
-- Sou criador do **LipeBot**
+- Sou programador avançado
+- Estudando sobre Java, HTML/CSS
+- Sou criador do **LipeBot** (morreu f)
 - Dono da JK COMUNIDADE
 
 ## Linguagem que eu uso para os meus projetos
 
 - Node.JS
-- Java
 
 ## Info
 
