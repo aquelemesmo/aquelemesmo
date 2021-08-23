@@ -2,7 +2,7 @@
 
 ### Bom dia, boa tarde e boa noite!
 
-Vamos la né, eu comecei a programar Node.JS ou JavaScript em 2018 e quando comecei a criar meu bot minha vida so mudou por causa da programação.
+Vamos la né, eu comecei a programar Node.JS em 2018 e quando comecei a criar meu bot minha vida so mudou por causa da programação. Nem sei porque eu escrevi isso devo ser esquizofrênico kkk
 
 E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemesmo?tab=repositories)
 
