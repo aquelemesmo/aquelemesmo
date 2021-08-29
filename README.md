@@ -6,13 +6,21 @@ Vamos la né, eu comecei a programar Node.JS em 2018 e quando comecei a criar me
 
 E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemesmo?tab=repositories)
 
-- Sou programador avançado (Node.JS)
-- Dono da JK COMUNIDADE
+## Sobre Mim
+
+<li>👑・Dono da (JK) COMUNIDADE </li>
+<li>⭐・Desenvolvedor de bots para Discord </li>
+<li>🎮・Novato em criação de jogos 2D. </li>
+<li>🎥・YouTuber e Streamer </li>
+<li>⛏️・Jogador de Minecraft </li>
+<li>⚙️・Configurador de Servidores </li>
+
+## Estáticas e linguagens utilizadas
 
 <div>
   <a href="https://github.com/aquelemesmo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aquelemesmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemesmo&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aquelemesmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemesmo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,6 +29,6 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-## Info
-
-![JKONLINE](https://img.shields.io/discord/786677580970328094?label=JK)
+## Discord da Comunidade
+  
+https://discord.gg/ct79AFyW2V
