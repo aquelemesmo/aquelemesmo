@@ -15,7 +15,7 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
 <li>⛏️・Jogador de Minecraft </li>
 <li>⚙️・Configurador de Servidores </li>
 
-## Estáticas e linguagens utilizadas
+## Estátisticas
 
 <div>
   <a href="https://github.com/aquelemesmo">
@@ -23,10 +23,14 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemesmo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
+## Linguagens trabalhados e aprendendo
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
 </div>
   
 ## Discord da Comunidade
