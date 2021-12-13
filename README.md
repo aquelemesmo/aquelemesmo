@@ -8,7 +8,6 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
 
 ## Sobre Mim
 
-<li>👑・Dono da (JK) COMUNIDADE </li>
 <li>⭐・Desenvolvedor de bots para Discord </li>
 <li>🎮・Novato em criação de jogos 2D. </li>
 <li>🎥・YouTuber e Streamer </li>
@@ -32,7 +31,3 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-## Discord da minha comunidade de aprendizagem em programação.
-  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ct79AFyW2V)
