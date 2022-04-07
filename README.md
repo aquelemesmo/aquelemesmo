@@ -2,7 +2,7 @@
 
 ### Bom dia, boa tarde e boa noite!
 
-Vamos la né, eu comecei a programar Node.JS em 2018 e quando comecei a criar meu bot minha vida so mudou por causa da programação. Nem sei porque eu escrevi isso devo ser esquizofrênico kkk
+Vamos la né, eu comecei a programar Node.JS em 2018 e quando comecei a criar meu bot minha vida so mudou por causa da programação. Depois de aprender a fazer NodeJS, eu estava pensando em criar plugins para servidores de minecraft e criar jogos 2D e comecei aprender Java e GM2
 
 E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemesmo?tab=repositories)
 
@@ -33,4 +33,5 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
   <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
