@@ -10,6 +10,7 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
 
 <li>⭐・Desenvolvedor de bots para Discord </li>
 <li>🎮・Novato em criação de jogos 2D. </li>
+<li>💼・Gerência da equipe Specter. </li>
 <li>🎥・YouTuber e Streamer </li>
 <li>⚙️・Configurador de Servidores </li>
 <li>🌠・Se quer seu sonho e conquistar uma coisa valiosa, faça tornar realidade virando programador certo. </li>
