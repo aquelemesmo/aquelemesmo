@@ -8,7 +8,7 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
 
 ## Sobre Mim
 
-<li>⭐・Desenvolvedor de bots para Discord </li>
+<li>⭐・Desenvolvedor de bots para Discord (Node.JS) </li>
 <li>🎮・Novato em criação de jogos 2D. </li>
 <li>💼・Gerência da equipe Specter. </li>
 <li>🎥・YouTuber e Streamer </li>
