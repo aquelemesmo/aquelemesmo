@@ -12,7 +12,7 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
 <li>🎮・Novato em criação de jogos 2D. </li>
 <li>🎥・YouTuber e Streamer </li>
 <li>⚙️・Configurador de Servidores </li>
-<li>🌠・Se quer seu sonho e conquistar uma coisa valiosa, faça tornar realidade virando programador certo. </li>
+<li>🌠・Faz aquilo oque tem que ser feito. </li>
 
 ## Estátisticas
 
