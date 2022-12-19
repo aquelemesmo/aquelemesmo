@@ -9,7 +9,7 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
 ## Sobre Mim
 
 <li>⭐・Desenvolvedor de bots para Discord (Node.JS) </li>
-<li>🎮・Novato em criação de jogos 2D. </li>
+<li>💻・Apredendo a criar sites em NextJS. </li>
 <li>🎥・YouTuber e Streamer </li>
 <li>⚙️・Configurador de Servidores </li>
 <li>🌠・Faz aquilo oque tem que ser feito. </li>
@@ -34,4 +34,5 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/nextjs-original.svg">
 </div>
