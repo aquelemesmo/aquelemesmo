@@ -30,3 +30,7 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
+  
+## Meu Discord
+  
+![Discord](https://lanyard.cnrad.dev/api/401024028388884483)
