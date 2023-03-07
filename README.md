@@ -1,12 +1,4 @@
-<h1 align="center">Hello World! 👋</h1>
-
-## Sobre Mim
-
-<li>⭐・Desenvolvedor de bots para Discord (Node.JS) </li>
-<li>💻・Apredendo a criar sites em NextJS. </li>
-<li>🎥・YouTuber e Streamer </li>
-<li>⚙️・Configurador de Servidores </li>
-<li>🌠・Faz aquilo oque tem que ser feito. </li>
+Infelizmente essa é uma mensagem de morte, agradeço a companharem minha vida ao longo do tempo.
 
 ## Meu Discord
   
