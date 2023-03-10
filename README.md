@@ -1,6 +1,7 @@
 Infelizmente essa é uma mensagem de morte, agradeço a companharem minha vida ao longo do tempo.
 
 ele/dele
+
 BISEXUAL O DOENTE
 
 ## Meu Discord
