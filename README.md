@@ -1,17 +1,5 @@
 <h1 align="center">Hello World! 👋</h1>
 
-### Bom dia, boa tarde e boa noite!
-
-Vamos la né, eu comecei a programar Node.JS em 2018 e quando comecei a criar meu bot minha vida so mudou por causa da programação. Depois de aprender a fazer NodeJS, eu estava pensando em criar plugins para servidores de minecraft e criar jogos 2D e comecei aprender Java e GM2
-
-E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemesmo?tab=repositories)
-
-## Sobre Mim
-
-<li>⭐・Desenvolvedor de bots para Discord (Node.JS) </li>
-<li>⚙️・Configurador de Servidores </li>
-<li>🌠・Faz aquilo oque tem que ser feito. </li>
-
 ## Estátisticas
 
 <div>
@@ -20,7 +8,7 @@ E claro, se quiser ver meus projetos, [clique aqui](https://github.com/aquelemes
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemesmo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## Linguagens trabalhados e aprendendo
+## Minhas experiências
 
 <div style="display: inline_block"><br>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
