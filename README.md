@@ -1,21 +1,28 @@
 <h1 align="center">Hello World! 👋</h1>
 
-## Estátisticas
+Eu me chamo Lucas Gomes e tenho 15 anos de idade.
+
+<h2 align="center">Estatísticas</h2>
 
 <div>
   <a href="https://github.com/aquelemesmo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aquelemesmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemesmo&layout=compact&langs_count=16&theme=dracula"/>
+    
 </div>
 
-## Minhas experiências
+<h2 align="center">Minhas experiências</h2>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,java,nextjs,react" />
+  </a>
+</p>
+
+<h2 align="center">Ferramentas de trabalho</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
