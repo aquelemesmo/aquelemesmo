@@ -1,6 +1,6 @@
 <h2 >Hello World! 👋</h2>
 
-Eu me chamo Lucas Gomes e tenho 16 anos de idade.
+Eu me chamo Lucas Gomes e tenho 17 anos de idade.
 
 <div>
   <a href="https://github.com/aquelemesmo">
