@@ -4,8 +4,8 @@ Eu me chamo Lucas Gomes e tenho 17 anos de idade.
 
 <div>
     <a href="https://github.com/aquelemesmo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aquelemesmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemesmo&layout=donut&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aquelemesmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquelemesmo&layout=donut&theme=dark"/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aquelemesmoojack&theme=dark"/>
 </div>
 
